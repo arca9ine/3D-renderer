@@ -1,5 +1,5 @@
-# renderer-c
-quick sdl2-based renderer in c
+# 3D-renderer
+quick sdl2-based 3D renderer in C
 
 ## triangles.h:
 everything that gets rendered has to be in the form of a Triangle. this file also includes the math to render the triangle to an SDL renderer.
